@@ -1,5 +1,5 @@
 {
-	"name": "jquery",
+	"name": "jquery-noglobal",
 	"title": "jQuery",
 	"description": "JavaScript library for DOM operations",
 	"version": "1.9.1",
